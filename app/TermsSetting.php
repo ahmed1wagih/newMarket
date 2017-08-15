@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class termsSetting extends Model
+class TermsSetting extends Model
 {
     protected $table = 'termssetting';
     protected $fillable = [
