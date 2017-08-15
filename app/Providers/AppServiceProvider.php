@@ -10,7 +10,7 @@ use App\homeSetting;
 use App\contactSetting;
 use App\footerSetting;
 use App\socialSetting;
-use App\termsSetting;
+use App\TermsSetting;
 
 
 class AppServiceProvider extends ServiceProvider
@@ -34,7 +34,7 @@ class AppServiceProvider extends ServiceProvider
         $socialsettings=socialSetting::all();
         View::share('socialsettings',$socialsettings);
 
-        $termssettings=termsSetting::all();
+        $termssettings=TermsSetting::all();
         View::share('termssettings',$termssettings);
 
         
