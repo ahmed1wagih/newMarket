@@ -35,7 +35,7 @@ class AppServiceProvider extends ServiceProvider
         View::share('socialsettings',$socialsettings);
 
         $termssettings=TermsSetting::all();
-        View::share('termssettings',$termssettings);
+        View::share('Termssettings',$termssettings);
 
         
     }
