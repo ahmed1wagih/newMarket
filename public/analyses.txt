@@ -1,0 +1,15 @@
+Admin Pnael side bar 
+
+1- Users
+2- User Profile
+3-Messages
+4-Categories
+5- Ads
+6- Paid ads
+7- Home settings
+8- Services Settings
+9- About us Settings
+10- Contact us Settings
+11- Terms Settings
+12- Footer Settings
+13- Social Settings

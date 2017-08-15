@@ -1,0 +1,194 @@
+/* English Language style */
+
+.about-box .about-content .about-data-en {
+    float: left;
+    padding-left: 0;
+    padding-right: 40px;
+}
+
+.about-box .about-content .about-img-en,
+.navbar-en .navbar-collapse,
+.contact-box-en .contact-content .contact-data,
+.about-box-en .prof-left,
+.service-box-en .service-content .service-one .service-one-data h1 span,
+.page-section-en .sidebar,
+.page-section-en .widget-categories .cat-item span {
+    float: right !important;
+}
+
+.navbar-en .navbar-nav > li,
+.navbar-en .container > .navbar-header,
+.about-box-en .prof-data,
+.page-section-en .mb-md-60,
+.page-section-en .mb-50,
+.page-section-en .list-view .product-img,
+.prof-ads-en .block {
+    float: left !important;
+}
+
+.navbar-en .navbar-nav > li > a,
+.user-logged-en a b {
+    font-family: 'sans-bold';
+    font-size: 13px;
+}
+
+.header .search-box-en button,
+.sticky1 .search-box-en button,
+.accordion-en > dt > a:after {
+    right: 6px;
+    left: auto;
+}
+
+.header .search-box-en input[type="text"],
+.sticky1 .search-box-en input[type="text"],
+.user-logged-en .drop-links ul li a,
+.side-nav-en a,
+.sliding-nav-en ul li .nav-form input,
+.order-box-en .order-content .order-form .order-item h1,
+.order-box-en .order-content .order-form .order-item input[type="text"],
+.order-box-en .order-content .order-form .order-item input[type="number"],
+.order-box-en .order-content .order-form .order-item input[type="email"],
+.order-box-en .order-content .order-form .order-item textarea,
+.order-box-en .order-content .order-form .order-item select,
+.accordion-en > dt,
+.contact-box-en .contact-content .contact-data,
+.contact-box-en .contact-content .contact-form .contact-form-item input[type='text'],
+.contact-box-en .contact-content .contact-form .contact-form-item input[type='email'],
+.contact-box-en .contact-content .contact-form .contact-form-item textarea,
+.about-box-en .profile-content .profile-box .prof-item h2,
+.prof-ads-en .block .inner .inner-data,
+.lost-inner-en .lost-item input.login-items,
+.lost-inner-en h1,
+.lost-inner-en .lost-item textarea,
+.inner-left-en h1,
+.inner-right-en h1,
+.lost-inner-en span,
+.lost-inner-en .lost-item label,
+.lost-inner-en .lost-item input[type="text"],
+.service-box-en .service-content .service-one .service-one-data h1,
+.service-box-en .service-content .service-one .service-one-data .pro-data,
+.service-box-en .service-content .service-one .service-one-data .pro-data ul li,
+.page-section-en .sidebar,
+.page-section-en .mb-md-60,
+.slider-box .slider-item-en .slider-item-caption a,
+.lost-inner-en .lost-item input[type="number"] {
+    text-align: left;
+    direction: ltr;
+}
+
+.slider-box .slider-item-en .slider-item-caption a {
+    padding: 0;
+    left: 20px;
+    right: auto;
+}
+
+.navbar-en .navbar-right .dropdown-menu {
+    left: 0;
+    right: auto;
+}
+
+.service-box-en .service-content .service-one .service-one-data .pro-data ul li a {
+    margin-left: 0;
+}
+
+.service-box-en .service-content .service-one .service-one-data .pro-data ul li a.send-msg {
+    margin-left: 30px;
+}
+
+.user-logged-en a .cont-img {
+    display: inline-block;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+    top: -7px;
+}
+
+.navbar-en .navbar-brand {
+    top: 7px;
+}
+
+.navbar-en .navbar-brand h1,
+.accordion-en > dt > a {
+    font-family: 'sans-bold';
+}
+
+.about-box-en .profile-content .profile-box .prof-item h2 b {
+    font-family: 'sans-bold';
+    font-size: 14px;
+}
+
+.accordion-en > dd,
+.lost-inner-en .social-item a h3 {
+    font-family: 'sans-reg';
+    text-align: left;
+    direction: ltr;
+}
+
+.footer-en .footer-top .footer-item,
+.footer-en .footer-bottom .copyright,
+.contact-box-en .contact-content .contact-form {
+    float: left;
+    text-align: left;
+    direction: ltr;
+}
+
+.footer-en .footer-top .footer-item ul li i,
+.about-box-en .profile-content .profile-box .prof-item h2 b i,
+.service-box-en .service-content .service-one .service-one-data .pro-data ul li i,
+.slider-box .slider-item-en .slider-item-caption a i {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.contact-box-en .contact-content .contact-form .contact-form-item i,
+.lost-inner-en .lost-item i {
+    left: 6px;
+    right: auto;
+    border-right: 1px solid #ddd;
+    border-left: 0;
+}
+
+.contact-box-en .contact-content .contact-data .contact-data-inner .C_data-item p {
+    padding-left: 15px;
+    padding-right: 0;
+}
+
+.about-box-en .profile-content .profile-box .prof-item h2 span,
+.lost-inner-en .lost-item h4 {
+    font-size: 15px;
+    font-family: 'sans-reg';
+}
+
+.all-ads .prof-ads-en h1 {
+    font-size: 20px;
+    padding: 0 0 15px 15px;
+}
+
+.page-section-en .shop-view {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.page-section-en .search-submit {
+    right: -3px;
+    left: auto;
+}
+
+.page-section-en .widget-posts.shop-widget .widget-posts-img {
+    margin-left: 0;
+    margin-right: 20px;
+}
+
+.page-section-en .list-view .product-descr {
+    padding-left: 30px;
+    margin-bottom: 30px;
+    overflow: hidden;
+    color: #9B9B9B;
+    text-align: left;
+    direction: ltr;
+}
+
+.main-desc-en .description {
+    padding-left: 0;
+    padding-right: 50px;
+}
